@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "_id": "5c8a27770e420ef4674548d4",
+      "id": "5c8a27770e420ef4674548d4",
       "name": {
         "first": "Glenn",
         "last": "Carroll"
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "_id": "5c8a27771b2e599a0a7995f7",
+      "id": "5c8a27771b2e599a0a7995f7",
       "name": {
         "first": "Weaver",
         "last": "Koch"
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "_id": "5c8a2777aebdeb5ebcc04830",
+      "id": "5c8a2777aebdeb5ebcc04830",
       "name": {
         "first": "Lela",
         "last": "Acosta"
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "_id": "5c8a2777b403a836375f5873",
+      "id": "5c8a2777b403a836375f5873",
       "name": {
         "first": "Catalina",
         "last": "Carlson"
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "_id": "5c8a277702ca23f8f2c7bb1f",
+      "id": "5c8a277702ca23f8f2c7bb1f",
       "name": {
         "first": "Kristy",
         "last": "Hubbard"
